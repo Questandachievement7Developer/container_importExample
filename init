@@ -2,3 +2,5 @@
 ## you can start a script or anything you want in here
 echo "Hello world"
 uname -a
+echo "Delaying Termination For Testing INIT detection "
+sleep 69
